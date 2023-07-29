@@ -161,3 +161,5 @@ cython_debug/
 
 hw0/movielens_data/*
 hw0/run/*
+hw1/omniglot_resized/*
+hw1/run/*
